@@ -23,9 +23,10 @@ Follow in Instagram "[@rauln7](https://www.instagram.com/rauln7/)".
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src=" https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.csscolor=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
+
     <a href="https://www.youtube.com/@larissakich">
         <img 
             alt="youtube views" 
