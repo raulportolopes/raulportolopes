@@ -26,11 +26,11 @@ Follow in Instagram "[@rauln7](https://www.instagram.com/rauln7/)".
             src="https://custom-icon-badges.demolab.com/badge/-Meu%20Linkedin-blue?style=for-the-badge&logoColor=white&logo=repo"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+        <a href="">
         <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            alt="Local" 
+            title="Localização" 
+            src="https://custom-icon-badges.demolab.com/badge/São Paulo-BR-purple?style=for-the-badge&logo=location&logoColor=white"
         />
     </a> 
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
