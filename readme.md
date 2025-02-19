@@ -21,9 +21,9 @@ Follow in Instagram "[@rauln7](https://www.instagram.com/rauln7/)".
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"
+            alt="Linkedins" 
+            title="Meu Linkedin" 
+            src="https://custom-icon-badges.demolab.com/badge/-Meu%20Linkedin-blue?style=for-the-badge&logoColor=white&logo=repo"
         />
     </a>
     <a href="https://www.youtube.com/@larissakich">
